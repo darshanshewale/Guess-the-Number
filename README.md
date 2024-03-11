@@ -21,13 +21,13 @@ Open the game in your web browser.
    * If you guess the correct number, congratulations!
 
 # Project Structure
-index.html: Contains the HTML structure for the game.
-style.css: Defines the game’s visual styling.
-script.js: Implements the game logic using JavaScript.
+* index.html: Contains the HTML structure for the game.
+* style.css: Defines the game’s visual styling.
+* script.js: Implements the game logic using JavaScript.
 
 # Installation
-Clone this repository to your local machine.
-Open index.html in your preferred web browser.
+* Clone this repository to your local machine.
+* Open index.html in your preferred web browser.
 
 # Acknowledgments
 This project was inspired by the classic number guessing games and was built as part of my web development journey. Feel free to explore, modify, and enhance it! 
